@@ -10,6 +10,7 @@ This repository showcases my learning journey and practical work in **Excel** an
 
 📁 PowerBI/
 └── super_store_report.pbix
+
 └── sales.pbix
 
 ### 📁 Excel Projects
