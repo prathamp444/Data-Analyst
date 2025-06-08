@@ -7,6 +7,7 @@ This repository showcases my learning journey and practical work in **Excel** an
 ## 🗂️ Folder Structure
 📁 Excel/
 └── Call Center Performance Tracker.xlsx
+
 📁 PowerBI/
 └── super_store_report.pbix
 └── sales.pbix
@@ -25,7 +26,7 @@ This repository showcases my learning journey and practical work in **Excel** an
    - Used DAX formulas for KPIs and slicers for dynamic filtering
    - [LinkedIn Post](https://www.linkedin.com/posts/pratham-patel-565965215_powerbi-dashboarddesign-datavisualization-activity-7281737684471959552-WUwm)
   
-2. **Sales Dashboard **  
+2. **Sales Dashboard**  
    - Enhanced version of the initial dashboard with improved visual design and deeper analytics  
    - Added **responsive charts**, matrix views, and dynamic filtering options  
    - Focused on clear executive-level reporting for sales insights
