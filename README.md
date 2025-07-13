@@ -60,8 +60,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
   - Customer Behavior
   - Product Performance
   - Sales Trends
-
-📂 [🔗 View Project on GitHub](https://github.com/prathamp444/Data-Analyst/tree/main/SQL/Data%20Warehouse%20Project)  
+  
 📢 [🔗 View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7350187681638711296/)
 
 ---
