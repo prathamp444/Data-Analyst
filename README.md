@@ -12,6 +12,14 @@ This repository showcases my learning journey and practical work in **Excel** an
 └── super_store_report.pbix
 └── sales.pbix
 
+📁 SQL
+└── 📁 Data Warehouse Project/
+    ├── 📁 Scripts/
+    ├── 📁 datasets/
+    ├── 📁 docs/
+    ├── 📁 tests/
+    └── 📄 README.md
+
 ### 📁 Excel Projects
 
 1. **Call Center Performance Dashboard**
@@ -30,6 +38,32 @@ This repository showcases my learning journey and practical work in **Excel** an
    - Enhanced version of the initial dashboard with improved visual design and deeper analytics  
    - Added **responsive charts**, matrix views, and dynamic filtering options  
    - Focused on clear executive-level reporting for sales insights
+---
+
+## 🧠 SQL Project
+
+### **Data Warehouse & Analytics Project**
+
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
+#### 🏗️ Data Architecture – Medallion Model:
+- **Bronze Layer**: Stores raw data as-is from the source systems (CSV files from ERP and CRM).
+- **Silver Layer**: Cleansed and standardized data, resolving quality issues and preparing it for analysis.
+- **Gold Layer**: Business-ready star schema used for analytics and reporting.
+
+#### 🔧 Key Features:
+- Planned and tracked using **Notion**
+- Architecture diagram created using **draw.io**
+- Performed **data quality checks** to ensure clean and reliable outputs
+- Designed **Fact** and **Dimension** tables for a scalable star schema
+- SQL-based analytics on:
+  - Customer Behavior
+  - Product Performance
+  - Sales Trends
+
+📂 [🔗 View Project on GitHub](https://github.com/prathamp444/Data-Analyst/tree/main/SQL/Data%20Warehouse%20Project)  
+📢 [🔗 View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7350187681638711296/)
+
 ---
 
 ## 📫 Contact Me
